@@ -1,4 +1,4 @@
-# DIEP * EM DESENVOLVIMENTO *
+# Dimensionador de Instalações Elétricas Prediais (DIEP) * EM DESENVOLVIMENTO *
 
 Programa voltado para o dimensionamento de circuitos elétricos prediais de baixa tensão segundo norma técnica brasileira NBR-5410, oferecendo opções de cálculo de disjuntores, DDR, condutores e queda de tensão, tanto para circuitos de força quanto de luz.
 
